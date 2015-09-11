@@ -4,14 +4,14 @@
   "language": "eng_GB", 
   "title": "Fun Stuff", 
   "primary_category": "18b1ad09d9954de4ae5109ce709cb534", 
-  "created_at": "2015-09-11T14:59:21.018670+00:00", 
+  "created_at": "2015-09-11T14:59:21+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-09-11T14:59:21.018926+00:00", 
+  "modified_at": "2015-09-11T15:05:03.290588+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,8 +22,8 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 2, 
   "image_host": "http://thumbor.unicore.io", 
-  "slug": "fun-stuff", 
+  "slug": "future-fun-stuff", 
   "uuid": "987f7ddc914d4eba9be5e4880e1f48f8"
 }
