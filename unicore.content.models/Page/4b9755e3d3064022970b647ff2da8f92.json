@@ -1,17 +1,17 @@
 {
-  "subtitle": "BECAUSE EDUCATION CAN MAKE YOUR FUTURE BRIGHT!", 
+  "subtitle": "Because education can make your future bright!", 
   "description": "", 
   "language": "eng_GB", 
   "title": "WHY STUDY HARD? ", 
   "primary_category": "18b1ad09d9954de4ae5109ce709cb534", 
-  "created_at": "2015-09-16T13:51:48.670310+00:00", 
+  "created_at": "2015-09-16T13:51:48+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-09-16T13:51:48.670537+00:00", 
+  "modified_at": "2015-09-16T14:24:44.396449+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -19,10 +19,14 @@
   "content": "Sometimes school can be challenging, and it can be hard to keep up with so many different subjects.  But know that a broad knowledge base will help when you go into the world to pursue your dreams.If you are not in school, find a training program or a person that will help you learn a skill and reach your goals.  Find a role model \u2013 someone you look up to, a teacher or even a parent. Ask for help and inspiration along the way. A goal is something that you personally want to achieve. It is so important to find your goals in life. This way, you can create a plan to work toward these goals.  Keep a notebook with you so that you can write down your dreams and goals in one place. Keep checking your progress on them.\r\n\r\nSet goals that will keep you motivated and focused on your schoolwork or training. Do you want to pass? Be top of the class? Or improve your marks? Write it down and read it often.\r\n", 
   "source": null, 
   "featured": true, 
-  "author_tags": [], 
+  "author_tags": [
+    "goalsetting", 
+    "school", 
+    "education"
+  ], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 10, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "why-study-hard", 
   "uuid": "4b9755e3d3064022970b647ff2da8f92"
