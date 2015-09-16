@@ -1,17 +1,17 @@
 {
-  "subtitle": "MAKE GOOD FRIENDS FOR LIFE ", 
+  "subtitle": "Make good friends for life ", 
   "description": "", 
   "language": "eng_GB", 
   "title": "ARE YOU IN A BAD CROWD? ", 
   "primary_category": "7577cd9c2fb2487e8d003d2ab7d88a54", 
-  "created_at": "2015-09-16T14:13:09.466863+00:00", 
+  "created_at": "2015-09-16T14:13:09+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-09-16T14:13:09.467050+00:00", 
+  "modified_at": "2015-09-16T14:21:41.065568+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -19,10 +19,14 @@
   "content": "Choose your friends wisely. Surround yourself with positive people who will encourage you to keep trying even when you are discouraged. Avoid making friends with people who laugh at you or put you down. Hang out with people who want the same good things you do. Choose friends who have dreams of staying in school, getting good grades and creating opportunities for themselves. They have a great future ahead of them - just like you do!\r\n\r\nA good friend is someone you love and support through thick and thin. And they do the same to you. Real friends have direction and a vision for their future. Friends help each other to avoid making bad decisions that might compromise their future.\r\nBe a good friend. Listen, be supportive, and be trustworthy. Help each other, and forgive a friend who makes a mistake. \r\n", 
   "source": null, 
   "featured": false, 
-  "author_tags": [], 
+  "author_tags": [
+    "friends", 
+    "relationships", 
+    "bad crowd"
+  ], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 3, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "are-you-bad-crowd", 
   "uuid": "1e1c0ce7e7dc4f12901cb51a08719013"
