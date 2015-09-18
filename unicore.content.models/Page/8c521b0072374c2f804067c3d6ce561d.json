@@ -1,17 +1,17 @@
 {
-  "subtitle": "Stay away from germ", 
-  "description": "", 
+  "subtitle": "Stay away from germs", 
+  "description": "Stay away from germs", 
   "language": "eng_GB", 
   "title": "How to avoid getting sick ", 
   "primary_category": "535047f8bb9643d0bd973bda850db247", 
   "created_at": "2015-09-16T13:59:28+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-09-16T15:23:03.837821+00:00", 
+  "modified_at": "2015-09-18T13:43:39.747347+00:00", 
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
